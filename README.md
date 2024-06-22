@@ -32,17 +32,17 @@ https://youtu.be/BpePsMg71UY
 
 2. Bootstrap `vcpkg`:
     ```
-    vcpkg/bootstrap-vcpkg.sh
+    bootstrap-vcpkg.bat
     ```
 
 3. Integrate `vcpkg` with your build system:
     ```
-    vcpkg/vcpkg integrate install
+    vcpkg integrate install
     ```
 
 4. Install the required packages:
     ```
-    vcpkg/vcpkg install boost-asio boost-system sqlite3 openssl jwt-cpp nlohmann-json libarchive libzip
+    vcpkg install boost-asio boost-system sqlite3 openssl jwt-cpp nlohmann-json libarchive libzip
     ```
 
 ### Building the Project
@@ -136,5 +136,7 @@ Feel free to contribute to this project by submitting issues or pull requests. E
 This project is licensed under the MIT License. See the `LICENSE` file for more details.
 
 ## Buy me a coffee...........!
+
 **BTC :- bc1q90c30lrgcclsd9pmyqpxjecyphg7y0f2grf74u**
+
 <a href="#" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: 41px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
