@@ -1,0 +1,9 @@
+Package: boost-headers
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7b6663555e59d5561bcaf73d5499afe41580652308b14e9e53a75a2f39e45b2a
+Description: Boost headers module
+Status: install ok half-installed

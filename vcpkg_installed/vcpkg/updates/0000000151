@@ -1,0 +1,7 @@
+Package: libarchive
+Feature: crypto
+Depends: openssl
+Architecture: x64-windows
+Multi-Arch: same
+Description: Support for cryptographic features
+Status: install ok installed

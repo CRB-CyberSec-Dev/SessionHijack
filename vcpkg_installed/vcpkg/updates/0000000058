@@ -1,0 +1,9 @@
+Package: boost-function
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-assert, boost-bind, boost-cmake, boost-config, boost-core, boost-headers, boost-throw-exception, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b027d7d8ea5889a2d02ccdbd840eee21ce6cab5c8b756a9073bfcd3e11196ca4
+Description: Boost function module
+Status: install ok half-installed

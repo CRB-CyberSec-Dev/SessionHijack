@@ -1,0 +1,9 @@
+Package: boost-tokenizer
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-assert, boost-cmake, boost-config, boost-core, boost-headers, boost-iterator, boost-throw-exception, boost-type-traits
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 93c2a1a3b1913f13ba3756f814980eef426c955482d1685f490c2ce3556ec8d3
+Description: Boost tokenizer module
+Status: install ok installed

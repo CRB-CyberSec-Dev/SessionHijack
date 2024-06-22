@@ -1,0 +1,7 @@
+Package: libarchive
+Feature: lz4
+Depends: lz4
+Architecture: x64-windows
+Multi-Arch: same
+Description: Lz4 support
+Status: install ok installed

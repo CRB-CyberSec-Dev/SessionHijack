@@ -1,0 +1,7 @@
+Package: libarchive
+Feature: lzma
+Depends: liblzma
+Architecture: x64-windows
+Multi-Arch: same
+Description: Lzma support
+Status: install ok half-installed

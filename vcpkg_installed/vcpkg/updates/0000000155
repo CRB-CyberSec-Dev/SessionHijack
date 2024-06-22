@@ -1,0 +1,7 @@
+Package: libarchive
+Feature: zstd
+Depends: zstd
+Architecture: x64-windows
+Multi-Arch: same
+Description: Zstd support
+Status: install ok installed

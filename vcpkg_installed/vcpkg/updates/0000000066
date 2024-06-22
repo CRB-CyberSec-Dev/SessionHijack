@@ -1,0 +1,9 @@
+Package: boost-fusion
+Version: 1.85.0
+Port-Version: 1
+Depends: boost-cmake, boost-config, boost-container-hash, boost-core, boost-function-types, boost-functional, boost-headers, boost-mpl, boost-preprocessor, boost-static-assert, boost-tuple, boost-type-traits, boost-typeof, boost-utility
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 9103240ed9085cbec096cd4c8426a364040ffb16766e5058c0e8b8d3fd0b6f7e
+Description: Boost fusion module
+Status: install ok half-installed

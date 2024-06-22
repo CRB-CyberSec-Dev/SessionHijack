@@ -1,0 +1,8 @@
+Package: jwt-cpp
+Version: 0.7.0
+Depends: picojson
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6db506f78a5e62ba00bd8b6ba95f8bac335d1ee597311449b1348e7f293ae33a
+Description: A header only library for creating and validating json web tokens in c++
+Status: install ok installed

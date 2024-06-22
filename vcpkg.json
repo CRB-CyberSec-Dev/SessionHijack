@@ -1,0 +1,13 @@
+{
+  "dependencies": [
+    "boost-asio",
+    "cppcodec",
+    "jwt-cpp",
+    "libzip",
+    "nlohmann-json",
+    "openssl",
+    "spdlog",
+    "sqlite3",
+    "libarchive"
+  ]
+}
